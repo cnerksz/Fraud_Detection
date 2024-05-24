@@ -11,10 +11,11 @@ best models were selected.
 ## Installation
 
 Clone the repository:
+```
 bash
 git clone https://github.com/cnerksz/fraud_detection.git
 cd fraud_detection
-
+```
 
 Install the required dependencies
 
